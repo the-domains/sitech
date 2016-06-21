@@ -1,0 +1,14 @@
+layout_spectrum: 0.1911028
+color:
+  saturation: 0.2299499
+  brandStrength: 0.5150809
+  lightness: 0.2694235
+  rhythmicContrast: 0.7211779
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.1942356
+name: SITech
